@@ -6,7 +6,7 @@ class Logic
     //  Description   : To count total number of factors
     //  Input         : int
     //  Output        : void
-    //  Author        : Prajwal Sanjay Pansare
+    //  Author        : Tejas Sunil Ahirrao
     //  Date          : 27/10/2025
     //
     //////////////////////////////////////////////////////////////
