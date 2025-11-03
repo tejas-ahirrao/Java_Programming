@@ -6,7 +6,7 @@ class Logic
     //  Description   : To Display the digits of the numbers
     //  Input         : int
     //  Output        : void
-    //  Author        : Prajwal Sanjay Pansare
+    //  Author        : Tejas Sunil Ahirrao
     //  Date          : 27/10/2025
     //
     //////////////////////////////////////////////////////////////
