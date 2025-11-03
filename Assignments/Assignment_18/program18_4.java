@@ -7,7 +7,7 @@ class Logic
     //  Description   : To print sum of even and odd separetely
     //  Input         : int
     //  Output        : void
-    //  Author        : Prajwal Sanjay Pansare
+    //  Author        : Tejas Sunil Ahirrao
     //  Date          : 27/10/2025
     //
     //////////////////////////////////////////////////////////////
