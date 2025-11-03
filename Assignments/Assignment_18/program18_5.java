@@ -7,7 +7,7 @@ class Logic
     //  Description   : To check the number is negative, positive or zero
     //  Input         : int
     //  Output        : void
-    //  Author        : Prajwal Sanjay Pansare
+    //  Author        : Tejas Sunil Ahirrao
     //  Date          : 27/10/2025
     //
     //////////////////////////////////////////////////////////////
