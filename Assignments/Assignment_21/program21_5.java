@@ -6,7 +6,7 @@ class Logic
     //  Description   : To display the numbers which divisible by 2 & 3
     //  Input         : int
     //  Output        : void
-    //  Author        : Prajwal Sanjay Pansare
+    //  Author        : Tejas Sunil Ahirrao
     //  Date          : 27/10/2025
     //
     //////////////////////////////////////////////////////////////
