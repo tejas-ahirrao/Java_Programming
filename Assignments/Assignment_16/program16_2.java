@@ -7,7 +7,7 @@ class Logic
     //  Description   : To check whether a given number is even or odd
     //  Input         : int
     //  Output        : void
-    //  Author        : Prajwal Sanjay Pansare
+    //  Author        : Tejas Sunil Ahirrao
     //  Date          : 27/10/2025
     //
     //////////////////////////////////////////////////////////////
